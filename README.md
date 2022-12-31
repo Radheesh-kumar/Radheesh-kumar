@@ -3,7 +3,7 @@
 - 🌱 I choose JAVA for DSA
 - 💞️ I’m looking to collaborate on the projects. And wanted to contribute to open source
 - 📫 How to reach me 
-- linkedin.com/in/radheesh-kumar-veeravelly-bb682a154
+- Linkedin (https://www.linkedin.com/in/radheesh-kumar-veeravelly-bb682a154)
 
 <!---
 Radheesh-kumar/Radheesh-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
