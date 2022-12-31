@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radheesh-kumar
 - 👀 I’m interested in Software Development and DEVOPS
-- 🌱 I choose JAVA over DSA
+- 🌱 I choose JAVA for DSA
 - 💞️ I’m looking to collaborate on the projects not only on JAVA, it is in python and JAVASCRIPT too. 
 - And wanted to contribute to open source
 - 📫 How to reach me 
